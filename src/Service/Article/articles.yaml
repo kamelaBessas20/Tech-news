@@ -1,0 +1,49 @@
+data:
+    article1 :
+        id : 1
+        titre : 'YAML - Tip Aligning Digital Marketing with Business Goals and Objectives'
+        contenu    : '<p>CONTENU</p>'
+        featuredimage : '3.jpg'
+        special : false
+        spotlight : true
+        datecreation : 2018-06-30 09:37:18
+        categorie:
+            id : 2
+            libelle : 'Business'
+        auteur:
+            id : 1
+            prenom : 'Kamela'
+            nom : 'BESSAS'
+            email : 'kamela@gmail.com'
+    article2 :
+        id : 2
+        titre : 'YAML - Six big ways MacOS Sierra is going to change your Apple experience'
+        contenu    : '<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque blanditiis dicta itaque laborum natus nemo non perferendis perspiciatis quasi, temporibus? Cumque magnam sapiente sequi! Amet architecto eligendi inventore maiores quos.</p>'
+        featuredimage : '2.jpg'
+        special : false
+        spotlight : true
+        datecreation : 2017-02-26 09:37:18
+        categorie:
+            id : 1
+            libelle : 'Computing'
+        auteur:
+            id : 2
+            prenom : 'Benjamin'
+            nom : 'JOURAND'
+            email : 'Benjamin@gmail.com'
+    article3 :
+        id : 30
+        titre : 'YAML - kamela vient de sortir !'
+        contenu    : '<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque blanditiis dicta itaque laborum natus nemo non perferendis perspiciatis quasi, temporibus? Cumque magnam sapiente sequi! Amet architecto eligendi inventore maiores quos.</p>'
+        featuredimage : '4.jpg'
+        special : false
+        spotlight : false
+        datecreation : 2017-02-26 09:37:18
+        categorie:
+            id : 2
+            libelle : 'Business'
+        auteur:
+            id : 1
+            prenom : 'kamela'
+            nom : 'BESSAS'
+            email : 'kamela@gmail.com'
